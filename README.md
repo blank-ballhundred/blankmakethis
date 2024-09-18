@@ -1,7 +1,8 @@
 <html>
   <head>
+    <title>제목</title>
   </head>
   <body>
-   <input type="button" value="button" onclick="alert('Hello world')">
+   <input type="hello" value="hello" onclick="alert('Hello world')">
   </body>
 </html>
