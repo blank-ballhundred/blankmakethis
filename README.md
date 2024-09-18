@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <h1 onclick="alert('알림')">제목</h1>
+   <input type="button" value="button" onclick="alert('Hello world')">
   </body>
 </html>
